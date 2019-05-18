@@ -1,2 +1,1 @@
-# alexbeattie.github.io
-# alexbeattie.github.io
+# Git Pages for Alex
